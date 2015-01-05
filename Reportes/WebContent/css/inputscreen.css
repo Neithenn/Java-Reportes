@@ -1,0 +1,36 @@
+
+.button{
+width: 20%;
+margin-right: auto;
+font-size: 12px;
+float:left;
+margin: 5px;
+font: bold 12px;
+}
+
+
+.form-group{
+width: 50%;
+margin-right: auto;
+}
+
+.line{
+	
+	border-top: 2px solid #ccc;
+}
+
+.out{
+   right:0;
+   bottom:0;
+   
+}
+
+.tdline{
+	text-align: right;
+	display: table-cell;
+ vertical-align: text-bottom;
+}
+
+.bold{
+font: bold 12px;
+}
